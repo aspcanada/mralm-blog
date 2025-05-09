@@ -10,7 +10,7 @@ export default function AmIQualifiedPage() {
   return (
     <Layout>
       <Head>
-        <title>Am I Qualified? | Mr Arms Length Mortgage</title>
+        <title>Am I Qualified?? | Mr Arms Length Mortgage</title>
         <meta
           name="description"
           content="WHO qualifies as a potential “RRSP-Mortgage” investor? There are three basic categories of people qualified to participate in this type of…"
